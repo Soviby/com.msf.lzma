@@ -1,0 +1,7 @@
+{
+  "name": "com.msf.lzma",
+  "version": "1.0.0",
+  "displayName": "LZMA",
+  "description": "\u5bf9\u4e8e7ZIP\u7684LZMA\u538b\u7f29",
+  "unity": "2019.1"
+}
